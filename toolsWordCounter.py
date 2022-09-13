@@ -1,6 +1,6 @@
 ###	Count occurrences of each word in a given text file		###
-###		Use a Py loop to read each line			###
-###		Convert each line to lower for the unique count	###
+###		Use a Py loop to read each line				###
+###		Convert each line to lower for the unique count		###
 ###		Split each word to count its number			###
 
 # Open the file in read mode
