@@ -1,1 +1,2 @@
-### build a word counter from a text file ###
+### build a word counter for a text file ###
+
